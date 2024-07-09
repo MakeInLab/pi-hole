@@ -1,0 +1,13 @@
+# Title: Make In Lab Hosts
+# Filtres protégeant contre divers types d'escroquerie
+# Last modified: XXXX
+# Creator: Make In Lab
+# Maintainer: Auconnors
+0.0.0.0 nouveau-passage.com
+0.0.0.0 choicecreneau.com
+0.0.0.0 mesdroits-renovation.fr
+0.0.0.0 service-suivichronopost.info
+0.0.0.0 facture-client.info
+0.0.0.0 carte-abonnement-tv.info
+0.0.0.0 profil-facturation-fr.com
+0.0.0.0 axsg.me
