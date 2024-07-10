@@ -57,3 +57,4 @@
 0.0.0.0 clbgroup.com
 0.0.0.0 lockedintrading.co
 0.0.0.0 infosplacements.fr
+#Test de fonctionnement du script auto
