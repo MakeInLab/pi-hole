@@ -11,3 +11,10 @@
 0.0.0.0 carte-abonnement-tv.info
 0.0.0.0 profil-facturation-fr.com
 0.0.0.0 axsg.me
+0.0.0.0 quantumnexbnk.online
+0.0.0.0 directfin.online
+0.0.0.0 seachfnc.com
+0.0.0.0 finanzpourtous.com
+0.0.0.0 prostegroupbnk.online
+0.0.0.0 freedombnk.online
+0.0.0.0 lapaverde.tech
