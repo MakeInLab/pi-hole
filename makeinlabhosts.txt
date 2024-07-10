@@ -18,3 +18,5 @@
 0.0.0.0 prostegroupbnk.online
 0.0.0.0 freedombnk.online
 0.0.0.0 lapaverde.tech
+0.0.0.0 fastbnk.online
+0.0.0.0 affiliation-immo.pro
