@@ -57,4 +57,13 @@
 0.0.0.0 clbgroup.com
 0.0.0.0 lockedintrading.co
 0.0.0.0 infosplacements.fr
-#Test de fonctionnement du script auto
+0.0.0.0 gouv.amendes-recouvrements.info
+0.0.0.0 vvs.bz
+0.0.0.0 rnm.cx
+0.0.0.0 servicecontraventiongouv.com
+0.0.0.0 renouvellement-vital.info
+0.0.0.0 ecouterepondeurvocal.pro
+0.0.0.0 amendes.suivi-reglement.info
+0.0.0.0 monespace-reglements.com
+0.0.0.0 wa.me
+0.0.0.0 caoz.me
