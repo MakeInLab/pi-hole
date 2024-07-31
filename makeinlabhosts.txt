@@ -67,3 +67,7 @@
 0.0.0.0 monespace-reglements.com
 0.0.0.0 wa.me
 0.0.0.0 caoz.me
+0.0.0.0 votre-relais-assurance-sante.com
+0.0.0.0 ameli-carte.fr
+0.0.0.0 cartevitale.assumalade.fr
+0.0.0.0 gestion-amelivitale.com
