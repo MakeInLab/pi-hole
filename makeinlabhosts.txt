@@ -74,3 +74,4 @@
 0.0.0.0 jackyism.website
 0.0.0.0 colis-france.com
 0.0.0.0 aide-vitale-ameli.info
+0.0.0.0 amendes-fr-gouv.com
