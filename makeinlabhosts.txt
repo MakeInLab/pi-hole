@@ -75,3 +75,5 @@
 0.0.0.0 colis-france.com
 0.0.0.0 aide-vitale-ameli.info
 0.0.0.0 amendes-fr-gouv.com
+0.0.0.0 reglements-direct.com
+0.0.0.0 reglementsdirect.com
