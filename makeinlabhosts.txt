@@ -78,3 +78,6 @@
 0.0.0.0 reglements-direct.com
 0.0.0.0 reglementsdirect.com
 0.0.0.0 suvicolisimo-livraison.info
+0.0.0.0 flashconsigne.com
+0.0.0.0 portalhelp-pp.com
+0.0.0.0 suivicolissimo-livraison.info
